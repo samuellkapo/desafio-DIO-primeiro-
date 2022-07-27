@@ -1,0 +1,40 @@
+.corpo {
+	background: white;
+	padding: 40px;
+	border: 3px solid black;
+	margin: 10px;
+
+	
+}
+	
+#title, .subtitle {
+	color: black;
+	font-size: 25px;
+}
+#title {
+	font-size: 30px;
+	font-family: verdana;
+	font-style: capitalize;
+}
+body {
+	background-color: gray;
+	font-family: verdana;
+	font-style: capitalize;
+	max-width: 900px;
+	margin: auto;
+	
+}
+.imag {
+	border: 1px solid black;
+	padding: 40px;
+	border-radius: 50px;
+	max-width: 800px;
+	margin: auto;
+}
+.list {
+	list-style: none;
+	padding-left: 40px;
+	}
+	.list li a {
+		text-decoration: none;
+	}
