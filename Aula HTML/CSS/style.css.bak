@@ -1,7 +1,7 @@
 .corpo {
 	background: white;
 	padding: 40px;
-	border: 3px solid black;
+	border: 2px solid black;
 	margin: 10px;
 
 	
@@ -34,7 +34,9 @@ body {
 .list {
 	list-style: none;
 	padding-left: 40px;
+	
 	}
 	.list li a {
+		color: red;
 		text-decoration: none;
 	}
